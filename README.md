@@ -16,7 +16,7 @@ Kurs z zakresu widzenia maszynowego realizowany w semestrze zimowym 2025/26 na W
 |  03   | 28 paź | [Konwolucje i okolice](https://dysk.agh.edu.pl/s/JmGGTcJgT7Hw9W7)                       |   4   |
 |  04   | 04 lis | [Główne problemy widzenia maszynowego cz. 1](https://dysk.agh.edu.pl/s/eBsad2WMZoHb2tL) |   4   |
 |  05   | 12 lis | [Główne problemy widzenia maszynowego cz. 2](https://dysk.agh.edu.pl/s/DJfFZWaRkxdcbf2) |   6   |
-|  06   | 18 lis | Główne problemy widzenia maszynowego cz. 3                                              |   6   |
+|  06   | 18 lis | [Główne problemy widzenia maszynowego cz. 3](https://dysk.agh.edu.pl/s/6Qi3NSJi3FDS3S4) |   6   |
 |  07   | 25 lis | Wyjaśnialność                                                                           |   6   |
 |  08   | 02 gru | Debugowanie modeli                                                                      |   6   |
 |  09   | 09 gru | Generative AI                                                                           |   6   |
