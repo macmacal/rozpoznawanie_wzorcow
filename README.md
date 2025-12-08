@@ -19,7 +19,7 @@ Kurs z zakresu widzenia maszynowego realizowany w semestrze zimowym 2025/26 na W
 |  06   | 18 lis | [Główne problemy widzenia maszynowego cz. 3](https://dysk.agh.edu.pl/s/6Qi3NSJi3FDS3S4) |   6   |
 |  07   | 25 lis | [Wyjaśnialność modeli wizyjnych](https://dysk.agh.edu.pl/s/9YnrraAiMSG7PYr)             |   6   |
 |  08   | 02 gru | [Debugowanie modeli](https://dysk.agh.edu.pl/s/NLpLiX4cPxD8Ht9)                         |   6   |
-|  09   | 09 gru | Generative AI                                                                           |   6   |
+|  09   | 09 gru | [Generative AI](https://dysk.agh.edu.pl/s/AZXaHeX7epjkZwE)                              |   6   |
 |  10   | 16 gru | Narzędzia do edycji wideo                                                               |   6   |
 |  11   | 09 sty | Render z AI                                                                             |   6   |
 |  12   | 13 sty | Przegląd SOTA w wizji maszynowej                                                        |   6   |
